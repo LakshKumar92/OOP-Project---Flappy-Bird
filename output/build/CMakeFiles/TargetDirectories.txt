@@ -1,0 +1,3 @@
+C:/Users/khatr/Desktop/OOP Project - Flappy Bird/output/build/CMakeFiles/FlappyBird.dir
+C:/Users/khatr/Desktop/OOP Project - Flappy Bird/output/build/CMakeFiles/edit_cache.dir
+C:/Users/khatr/Desktop/OOP Project - Flappy Bird/output/build/CMakeFiles/rebuild_cache.dir

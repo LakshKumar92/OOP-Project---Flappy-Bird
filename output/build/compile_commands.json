@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/khatr/Desktop/OOP Project - Flappy Bird/output/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FlappyBird.dir/includes_CXX.rsp -g -o CMakeFiles\\FlappyBird.dir\\src\\Bird.cpp.obj -c \"C:\\Users\\khatr\\Desktop\\OOP Project - Flappy Bird\\Flappy-Bird\\src\\Bird.cpp\"",
+  "file": "C:/Users/khatr/Desktop/OOP Project - Flappy Bird/Flappy-Bird/src/Bird.cpp",
+  "output": "CMakeFiles/FlappyBird.dir/src/Bird.cpp.obj"
+},
+{
+  "directory": "C:/Users/khatr/Desktop/OOP Project - Flappy Bird/output/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FlappyBird.dir/includes_CXX.rsp -g -o CMakeFiles\\FlappyBird.dir\\src\\Pipe.cpp.obj -c \"C:\\Users\\khatr\\Desktop\\OOP Project - Flappy Bird\\Flappy-Bird\\src\\Pipe.cpp\"",
+  "file": "C:/Users/khatr/Desktop/OOP Project - Flappy Bird/Flappy-Bird/src/Pipe.cpp",
+  "output": "CMakeFiles/FlappyBird.dir/src/Pipe.cpp.obj"
+},
+{
+  "directory": "C:/Users/khatr/Desktop/OOP Project - Flappy Bird/output/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FlappyBird.dir/includes_CXX.rsp -g -o CMakeFiles\\FlappyBird.dir\\src\\main.cpp.obj -c \"C:\\Users\\khatr\\Desktop\\OOP Project - Flappy Bird\\Flappy-Bird\\src\\main.cpp\"",
+  "file": "C:/Users/khatr/Desktop/OOP Project - Flappy Bird/Flappy-Bird/src/main.cpp",
+  "output": "CMakeFiles/FlappyBird.dir/src/main.cpp.obj"
+}
+]
